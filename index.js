@@ -1,6 +1,6 @@
 function ComponentFactory(options) {
   this.id = 'position';
-};
+}
 
 ComponentFactory.prototype.createComponent = function (options) {
   return {
