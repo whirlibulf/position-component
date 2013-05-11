@@ -3,7 +3,7 @@
   "repo": "whirlibulf/position-component",
   "description": "A component for storing position co-ordinates",
   "version": "0.0.1",
-  "keywords": ["whirlibulf"],
+  "keywords": ["whirlibulf", "component"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
