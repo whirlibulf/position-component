@@ -13,7 +13,7 @@ A component for storing the x, y and z co-ordinates of an object in the Whirlibu
 
 Register the component:
 
-    game.addComponent('position', require('position-component'));
+    game.use('position', require('position-component'));
 
 The options object for this component:
 

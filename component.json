@@ -1,7 +1,7 @@
 {
   "name": "position-component",
   "repo": "whirlibulf/position-component",
-  "description": "A component for storing position co-ordinates",
+  "description": "A component for storing position co-ordinates for the whirlibulf game engine",
   "version": "0.0.1",
   "keywords": ["whirlibulf", "component"],
   "dependencies": {},
